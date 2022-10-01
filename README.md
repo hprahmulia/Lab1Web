@@ -6,4 +6,4 @@ Tag <p>
 Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.
 Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka <p> dan diakhiri dengan tag penutup </p>
 ini adalah tampilanya 
-![Gambar1] (Lab1_Capture1.PNG)
+<img src="Lab1_Capture1.PNG" />
